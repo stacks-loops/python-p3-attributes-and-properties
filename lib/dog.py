@@ -11,7 +11,7 @@ class Dog:
     "Pug",
     "Pointer"
 ]
-    def __init__(self, name="Default Doggo", breed="Mastiff"):
+    def __init__(self, name="doggo", breed="doggo type"):
         self._name = None
         self._breed = None
         self.name = name
